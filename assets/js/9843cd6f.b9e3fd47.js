@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwin_11_react=self.webpackChunkwin_11_react||[]).push([[553],{8099:function(s){s.exports=JSON.parse('{"allTagsPath":"/win11react-docs/blog/tags","slug":"/win11react-docs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/win11react-docs/blog/tags/docusaurus"}')}}]);
