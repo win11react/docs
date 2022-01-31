@@ -9,12 +9,12 @@ const config = {
   title: 'Win11React Documentation',
   tagline: 'Windows 11 in React',
   url: 'https://projects.asylum-os.com',
-  baseUrl: '/win11react-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Asylum-os', // Usually your GitHub org/user name.
-  projectName: 'win11react-docs', // Usually your repo name.
+  organizationName: 'win11react', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Asylum-os/win11react-docs/edit/main/',
+          editUrl: 'https://github.com/win11react/docs/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Asylum-os/win11react-docs/edit/main/blog/',
+            'https://github.com/win11react/docs/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -98,7 +98,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Bluedge. Built with React.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bluedge. Built with ReactJS.`,
       },
       prism: {
         theme: lightCodeTheme,
