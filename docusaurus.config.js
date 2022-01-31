@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Win11React Documentation',
   tagline: 'Windows 11 in React',
-  url: 'https://win11react.github.io',
-  baseUrl: '/docs/',
+  url: 'https://win11docs.asylum-os.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
