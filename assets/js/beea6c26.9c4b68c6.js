@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwin11React_docs=self.webpackChunkwin11React_docs||[]).push([[170],{3576:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/javascript","name":"javascript","count":2,"permalink":"/blog/tags/javascript"}')}}]);

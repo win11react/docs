@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwin11React_docs=self.webpackChunkwin11React_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Windows 11 in React Js \ud83d\udcbb\ud83c\udf08 Update (Unofficial)","permalink":"/blog/update"},{"title":"Windows 11 in React Js \ud83d\udcbb \ud83c\udf08","permalink":"/blog/welcome"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwin11React_docs=self.webpackChunkwin11React_docs||[]).push([[181],{6001:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/webdev","name":"webdev","count":1,"permalink":"/blog/tags/webdev"}')}}]);
