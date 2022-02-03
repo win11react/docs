@@ -7,9 +7,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Win11React",
-  tagline: "Windows 11 in React",
   url: "https://win11docs.asylum-os.com",
   baseUrl: "/",
+  tagline: "Windows 11 in React",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "favicon.ico",
@@ -39,8 +39,11 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    /**  @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    {
+      colorMode: {
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: "Win11React",
         logo: {
@@ -50,7 +53,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "about",
             position: "left",
             label: "Docs",
           },
@@ -61,6 +64,7 @@ const config = {
             position: "right",
           },
         ],
+        hideOnScroll: true,
       },
       footer: {
         style: "dark",
@@ -69,8 +73,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Intro",
-                to: "/docs/intro",
+                label: "Tutorial",
+                to: "/docs/about",
               },
               {
                 label: "Blog",
@@ -111,7 +115,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    },
 };
 
 module.exports = config;
