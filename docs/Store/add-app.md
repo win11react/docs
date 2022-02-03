@@ -1,22 +1,18 @@
 # Add an App
 
-### Hi there 👋
-
-For the store file, please visit: [store.json - Win11React](https://github.com/win11react/store/tree/main/store)
-
-### To add your game/app 🎮
-
 First, please make sure the site accepts IFrame. You can check this by inserting the sites URL into this: [IFrame checker](https://www.tinywebgallery.com/blog/advanced-iframe/free-iframe-checker)
 
-#### Either
+## Ways to add an app to the store
 
-#### 1. Create an [Issue](https://github.com/win11react/store/issues/new/choose) and follow the given steps
+### Using Github issues
 
-#### OR
+Create an [Issue](https://github.com/win11react/store/issues/new/choose) and follow the given steps.
 
-#### 2. Make a pull request by manually editing the `store.json` file in your fork
+### Via Github Pull Request
 
-Read the schema below, **BEFORE** adding any game and/or app element into the Store file:
+Make a pull request by editing the [store.json](https://github.com/win11react/store/blob/main/store/index.json) file
+
+Read the schema below, **BEFORE** adding any game/app element into the `store.json` file:
 
 ```json
 {
@@ -39,10 +35,8 @@ Read the schema below, **BEFORE** adding any game and/or app element into the St
 }
 ```
 
-### PLEASE REMOVE THE COMMENTS FROM YOUR JSON, BEFORE MAKING A PULL REQUEST
+#### Make sure to remove the coments from the json before making a pull request
 
-**Comments look like this: `// example text`**
+Comments look like this: `// example text`
 
-Add your game/app in the file (don't beautify the code, just add your game and/or app element) and make a pull request to get it reviewed then **potentially** accepted.
-
-# PLEASE STOP SUGGESTING ANDROID GAMES
+Add your game/app in the file (don't beautify the code, just add your game/app element) and make a pull request to get it **potentially** accepted.
