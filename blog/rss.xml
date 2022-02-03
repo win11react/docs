@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Win11React Documentation Blog</title>
+        <title>Win11React Blog</title>
         <link>https://win11docs.asylum-os.com/blog</link>
-        <description>Win11React Documentation Blog</description>
+        <description>Win11React Blog</description>
         <lastBuildDate>Fri, 12 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

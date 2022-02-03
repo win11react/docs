@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://win11docs.asylum-os.com/blog</id>
-    <title>Win11React Documentation Blog</title>
+    <title>Win11React Blog</title>
     <updated>2021-11-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://win11docs.asylum-os.com/blog"/>
-    <subtitle>Win11React Documentation Blog</subtitle>
-    <icon>https://win11docs.asylum-os.com/img/favicon.ico</icon>
+    <subtitle>Win11React Blog</subtitle>
+    <icon>https://win11docs.asylum-os.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Windows 11 in React Js 💻🌈 Update (Unofficial)]]></title>
         <id>update</id>
