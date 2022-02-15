@@ -30,7 +30,7 @@ Read the schema below, **BEFORE** adding any game/app element into the `store.js
     ],
     "desc": "Minecraft is a sandbox construction video game ...", // description for store app
     "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", // features for store app
-    "invert": true // when true it forces dark theme for game/app window, default is false.
+    "invert": true // when true it forces dark theme for game/app window, default is real.
   }
 }
 ```
