@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwin11React_docs=self.webpackChunkwin11React_docs||[]).push([[274],{7373:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/css","name":"css","count":1,"permalink":"/blog/tags/css"}')}}]);

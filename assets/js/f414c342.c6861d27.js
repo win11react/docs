@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwin11React_docs=self.webpackChunkwin11React_docs||[]).push([[927],{8955:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/windows-11","name":"windows11","count":1,"permalink":"/blog/tags/windows-11"}')}}]);
