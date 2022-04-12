@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Win11React",
-	url: "https://win11docs.asylum-os.com",
+	url: "https://win11react-docs.andrewstech.me",
 	baseUrl: "/",
 	tagline: "Windows 11 in React",
 	onBrokenLinks: "throw",
@@ -15,7 +15,7 @@ const config = {
 	favicon: "favicon.ico",
 	organizationName: "win11react", // Usually your GitHub org/user name.
 	projectName: "docs", // Usually your repo name.
-
+	scripts: [{src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3119327652471615', async : true, crossorigin : "anonymous"}],
 	presets: [
 		[
 			"classic",
