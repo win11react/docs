@@ -13,6 +13,7 @@ Win11React is designed to look like the Real Windows 11. Built from scratch usin
 
 [Blue edge](https://github.com/blueedgetechno/) - Creator of win11react.  
 [andrewstech](https://github.com/andrewstech/) - Creator of the Deploy Preview system. Maintains the app store.
+[Yashash](https://github.com/yashash1511) - Creator of the settings app & Fixer of bugs.
 
 ## Contributors
 
