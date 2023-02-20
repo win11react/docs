@@ -35,8 +35,11 @@ Read the schema below, **BEFORE** adding any game/app element into the `store.js
 }
 ```
 
-#### Make sure to remove the coments from the json before making a pull request
+:::caution
+### PLEASE REMOVE THE COMMENTS FROM YOUR JSON, BEFORE MAKING A PULL REQUEST
+**Comments look like this: `// example text`**
 
-Comments look like this: `// example text`
+:::
+
 
 Add your game/app in the file (don't beautify the code, just add your game/app element) and make a pull request to get it **potentially** accepted.
