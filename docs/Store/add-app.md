@@ -16,12 +16,12 @@ Read the schema below, **BEFORE** adding any game/app element into the `store.js
 
 ```json
 {
-  "name": "Minecraft", // unique name (check if it has been used already in the file)
-  "icon": "https://example.com/minecraft.png", // logo image, preferrably 1:1 and less than 128px of width
+  "name": "fortnite", // unique name (check if it has been used already in the file)
+  "icon": "https://cdn2.unrealengine.com/24br-zerobuild-playlisttiles-squads-1920x1080-1920x1080-740da4976ad5.png
   "type": "game", // game or app
   "data": {
     "type": "IFrame", // type currently supports IFrame only
-    "url": "https://classic.minecraft.net", // url of the app and make sure they accept Iframe
+    "url": "https://www.fortnite.com/?lang=en-US", // url of the app and make sure they accept Iframe
     "gallery": [
       // three or more images for gallery view in store app
       "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
